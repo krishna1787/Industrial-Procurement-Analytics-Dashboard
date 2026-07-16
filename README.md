@@ -14,7 +14,7 @@ An enterprise business intelligence application built in Power BI to analyze a l
 
 ## 🛠️ Tech Stack & Advanced Features Built
 * **Data Visualization Platform:** Power BI Desktop
-* **Advanced Modeling Engine:** Star Schema relational data model linking transactional invoice fact tables to dimensional lookup tables (`Dim_Vendor`, `Dim_Category`).
+* **Advanced Modeling Engine:** Star Schema relational data model linking transactional invoice fact tables to dimensional lookup tables (`Vendor`, `Item(Category)`).
 * **Advanced DAX Analytics:** Engineered nested iterative calculations (`SUMX`, `RELATED`) to compute complex row-by-row margin variances across diverse database sources.
 * **Executive User Experience (UX):** Deployed responsive scatter plot matrices, targeted parent category filters, and clear KPI summary indicators designed specifically for C-suite decision-making.
 
